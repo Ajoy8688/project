@@ -1,8 +1,8 @@
 
 public class ajay {
-        public static void main (string[] args){
+        public static void main (String[] args){
                 int a=10, b=20;
-                system.out.println("Addition is:"+(a+b));
+                System.out.println("Addition is:"+(a+b));
         }
 }
 
